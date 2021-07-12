@@ -1,8 +1,8 @@
 <h2> Hi, I'm Bruno Dourado!</h2>
-<p><em>Software Enginner</em><br>
+<p><em>Software Engineer.</em><br>
 <em>13+ years of experience developing web solutions.</em><br>
-Full Stack Developer at <a href="https://www.studydrive.net">Studydrive</a>  
-</em></p>
+Full Stack Developer at <a href="https://www.studydrive.net">Studydrive</a>.
+</p>
 
 [![Linkedin: brunodourado](https://img.shields.io/badge/-brunodourado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dourado-8a6a4813/)](https://www.linkedin.com/in/bruno-dourado-8a6a4813/)
 [![GitHub bdourado](https://img.shields.io/github/followers/bdourado?label=follow&style=social)](https://github.com/bdourado)
