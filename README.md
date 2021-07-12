@@ -12,9 +12,9 @@ Full Stack Developer at <a href="https://www.studydrive.net">Studydrive</a>
 
 ```javascript
 const brunoDourado = {
-    code: [PHP, Javascript, Typescript],
-    tools: [Laravel, PhpUnit, VueJS, VueX, Node, Storybook, Jest, Docker, Kafka],
-    architecture: ["microservices", "event-driven"],
+    code: ["PHP", "Javascript", "Typescript"],
+    tools: ["Laravel", "PhpUnit", "VueJS", "VueX", "Node", "Storybook", "Jest", "Docker", "Kafka"],
+    architecture: ["Microservices", "Event-driven"],
     patterns: ["Factory","Singleton","Strategy", "MVC", "Adapter"],
     knowSolidPrinciples: true,
 }
